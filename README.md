@@ -1,5 +1,5 @@
-# R Statistical Analyses
+# Projects made in R
 
-https://drnursultan.github.io/Data-Analyses-with-R/Boston_project.html
+[Boston city project analysis](https://drnursultan.github.io/Data-Analyses-with-R/Boston_project.html "Exploring housing data in Boston")
 
-https://drnursultan.github.io/Data-Analyses-with-R/car_insurance_project.html
+[Modeling Car Insurance Claim Outcomes](https://drnursultan.github.io/Data-Analyses-with-R/car_insurance_project.html "Predicting car insurance costs")
